@@ -1,1 +1,2 @@
-"vim -r 11-lists"
+ #!/bin/bash
+ls la
